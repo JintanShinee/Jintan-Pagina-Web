@@ -1,0 +1,106 @@
+.tudo{
+  max-width: 1000px; 
+  max-height: 1080px; 
+  margin: 0 auto; 
+  padding:20px;
+   
+}
+
+
+
+.jintanebanguela{
+    
+    transform: translate(600px, 0%);
+    border-radius: 5%;
+    width:1080px;
+    height: 720px;
+
+}
+
+.texto1{
+  transform: translate(670px, 0%);
+    font-family: "texto1", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .fotodoperfil{
+    transform: translateX(1200px);
+   
+   }
+
+
+  .texto2{
+    transform: translate(300px, -400%);
+    font-family: "texto1", cursive;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration:none;
+  
+  }
+.videobanguela{
+  width:800px;
+  height: 400px;
+
+}
+
+
+.texto3{
+  
+  transform: translate(800px, -150%);
+  font-family: "texto3", cursive;
+  font-weight: 350;
+  font-style: normal;
+width:1000px;
+}
+
+.logovrchat{
+  transform: translate(1200px, -10%);
+}
+
+.meta{
+
+width:800px;
+height: 400px;
+transform: translate(40px, -0%);
+
+}.texto4{
+
+width:1000px;
+transform: translate(30px, -150%);
+font-family: "texto3", cursive;
+font-weight: 350;
+font-style: normal
+
+}
+
+
+
+
+.texto5{
+    font-family: "texto3", cursive;
+    font-weight: 350;
+    font-style: normal;
+    width: 1000px;
+    transform: translate(900px, -140%);
+  
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
